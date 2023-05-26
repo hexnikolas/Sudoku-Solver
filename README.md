@@ -10,3 +10,9 @@ It gets a puzzle in the form of a string like the following: ```..5..97...6.....
 - pytest 
 
 ```graphical.py``` returns a new graphical window that shows the solved puzzle, while ```notgraphical.py``` returns the solved puzzle in the standard output.
+```test_sudoku.py``` are the unit tests of the solver.
+
+#### Usage
+```python3 graphical.py``` executes the graphical application.
+```python3 notgraphical.py``` executes the not graphical application
+```pytest``` executes the unit tests of the application.
