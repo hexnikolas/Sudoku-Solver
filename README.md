@@ -9,4 +9,4 @@ It gets a puzzle in the form of a string like the following: ```..5..97...6.....
 - Qt5 
 - pytest 
 
-```graphical.py``` returns a new window that shows the solved puzzle, while ```notgraphical.py``` returns the solved puzzle in the standard output.
+```graphical.py``` returns a new graphical window that shows the solved puzzle, while ```notgraphical.py``` returns the solved puzzle in the standard output.
